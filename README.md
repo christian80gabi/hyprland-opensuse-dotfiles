@@ -27,7 +27,7 @@ This is going to install some dependencies for an environment for more appealing
 [hyprpaper]: https://wiki.hyprland.org/Useful-Utilities/Wallpapers/#hyprpaper
 [dunst]: https://wiki.hyprland.org/Useful-Utilities/Must-have/
 [kitty]: https://github.com/kovidgoyal/kitty
-[waybar]: hhttps://wiki.hyprland.org/Useful-Utilities/Status-Bars/#waybar
+[waybar]: https://wiki.hyprland.org/Useful-Utilities/Status-Bars/#waybar
 [waylock]: https://github.com/ifreund/waylock
 [swaylock]: https://github.com/swaywm/swaylock
 [wofi]: https://wiki.hyprland.org/Useful-Utilities/App-Launchers/#wofi
@@ -37,7 +37,7 @@ After all the dependencies installed. Then, copy the content of  `config` in you
 ```shell
 $ tree
 
--> ~/.config/
+. ~/.config/
 |____ ...
 |____ dunst
 |____ hypr
