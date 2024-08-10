@@ -1,3 +1,11 @@
+> [!IMPORTANT]  
+> I created a new project based on this one. It's more updated and many issues fixed. Thank you.
+> 
+> [hyprland-opensuse-dotfiles-v2](https://github.com/christian80gabi/hyprland-opensuse-dotfiles-v2)
+
+<br>
+<br>
+
 # HYPRLAND-OPENSUSE-DOTFILES
 
     Simple Hyprland dotfiles for OpenSUSE
